@@ -19,6 +19,5 @@ source dataset CIFAR-10 can be downloaded from https://www.cs.toronto.edu/~kriz/
 # Implementation Details
 The deep learning network consists of 4 layers. A 3 layer 2D convolution netwrok along with a fully connected last year is used.
 The network prameters are initialized with Xavier initialization.
-After some hyperparamter tuning the values obtained for few hypermeters are as follows: learning rate = 0.001, epochs=60, mini batch size= 64
-An accuracy of around 70% is acheived with this simple convolution neural network
+After some hyperparamter tuning the values obtained for few hypermeters are as follows: learning rate = 0.001, epochs=60, mini batch size= 64. Accuracy of around 70% is acheived with this simple convolution neural network
 
